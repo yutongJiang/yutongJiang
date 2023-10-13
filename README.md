@@ -1,6 +1,8 @@
--I’m @yutongJiang, currently Year 3 student at @Imperial College London studying Computing.
+- I’m @yutongJiang, currently Year 4 student at @Imperial College London studying Computing.
 
--Current programming languages: Java, Python, C, Dart, Haskell, Kotlin.
+- Programming languages: Java, Python, C#, Javascript/Typescript, C, Dart, Haskell, Kotlin, Html, CSS.
+- Libraries: Firebase, PyTorch, pandas, NumPy, matplotlib, MobX, scikit-learn, Cypress, etc.
+- Frameworks: React, .Net, Spring Boot, Flutter, LangChain, Semantic Kernel
 
 
 <!---
